@@ -1,0 +1,8 @@
+name: schools_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - folium
+  - geopy
