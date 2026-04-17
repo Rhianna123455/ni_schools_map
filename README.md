@@ -29,6 +29,9 @@ To run this project, the following software must be installed:
 
 - Git (to clone the repository)
 - Anaconda (to access Juypter Notebook)
+
+## Data
+The data utilised within this project is contained within the data folder within the repository, however if the user wants to explore the original dataset further it can be access using OpenDataNI within the Education Section called School Locations (https://admin.opendatani.gov.uk/dataset/39cd6af4-8fed-4ac9-9620-577a2190bb34/resource/d0947faf-5d84-4ce4-80dd-ce4fa0e1c0d5/download/locate-a-school-open-data-feb-2016.csv).
   
 ## How to Run This Project
 Step 1: Clone the repository:
