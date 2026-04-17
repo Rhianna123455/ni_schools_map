@@ -37,32 +37,32 @@ The data utilised within this project is contained within the data folder within
 Step 1: Clone the repository:
 
 Clone this repository using the following code: 
-
-git clone https://github.com/Rhianna123455/ni_schools_map 
-
-Alternatively, this link (https://github.com/Rhianna123455/ni_schools_map) can be used to access the repository via GitHub and be cloned using the "Code" button.
+    
+    git clone https://github.com/Rhianna123455/ni_schools_map 
+    
+Alternatively, this link (https://github.com/Rhianna123455/ni_schools_map) can be used to access the repository via GitHub and be cloned using the "Code"          button.
 
 
 Step 2: Navigate to the project folder:
 
 Using Anaconda Prompt navigate to the project folder using the following code:
-
-cd ni_schools_map
-
+    
+    cd ni_schools_map
+    
 
 Step 3: Create the environment:
 
 Within Anaconda prompt create the environment using the following code:
-
-conda env create -f environment.yml
+    
+    conda env create -f environment.yml
 
 
 Step 4: Activate the environment:
 
 Activate the environment within Anaconda using the following code:
-
-conda activate schools_env
-
+    
+    conda activate schools_env
+    
 The environment.yml file contains all required dependencies and ensures the project can be reproduced consistently.
 
 
