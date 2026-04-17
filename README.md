@@ -1,4 +1,4 @@
-# NI Schools Map
+# NI Schools Interactive Map
 EGM722 Assignment
 
 Rhianna Wilkinson - B00840795
@@ -11,13 +11,13 @@ This project creates an interactive map of school locations across Northern Irel
 - Display of user location
 - Display of school locations
 - Classification of school types into categories
-- Toggle Fiter to show or hide different school categories
+- Toggle Filter to show or hide different school categories
 - Pop up to appear when each school marker is clicked
 - Calculates distance from a user defined location and included within pop up
 - 5km buffer surrounding user location to visualise nearby schools
 - Exportable HTML map for external viewing
 
-## Software and Libraries 
+## Tools and Libraries 
 - Python
 - Pandas
 - Folium
@@ -27,10 +27,10 @@ This project creates an interactive map of school locations across Northern Irel
 ## Requirements
 To run this project, the following software must be installed:
 
-- Git - to clone the repository
-- Anaconda - to access Juypter Notebook
+- Git (to clone the repository)
+- Anaconda (to access Juypter Notebook)
   
-## How to Complete This Project
+## How to Run This Project
 Step 1: Clone the repository:
 
 Clone this repository using git clone following this link: https://github.com/Rhianna123455/ni_schools_map 
@@ -57,4 +57,4 @@ Step 5: Open the notebook:
 
 Within Anaconda launch jupyter notebook and navigate to the schools_map.ipynb notebook and open it.
 
-Step 6: Run all cells within the notebook to generate the map
+Step 6: Run all cells within the notebook to generate the interactive map
