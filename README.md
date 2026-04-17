@@ -24,7 +24,7 @@ This project creates an interactive map of school locations across Northern Irel
 - Geopy
 - Jupyter Notebook
 
-## Requirements
+## Software Requirements
 To run this project, the following software must be installed:
 
 - Git (to clone the repository)
