@@ -33,19 +33,28 @@ To run this project, the following software must be installed:
 ## How to Complete This Project
 Step 1: Clone the repository:
 
-Clone this repository using this link: 
-git clone https://github.com/yourusername/ni_schools_map.git
+Clone this repository using git clone following this link: https://github.com/Rhianna123455/ni_schools_map 
 
 Step 2: Navigate to the project folder:
+
+Using Anaconda Prompt navigate to the project folder using the following code:
+
 cd ni_schools_map
 
 Step 3: Create the environment:
+
+Within Anaconda prompt create the environment using the following code:
+
 conda env create -f environment.yml
 
 Step 4: Activate the environment:
+
+Activate the environment within Anaconda using the following code:
+
 conda activate schools_env
 
 Step 5: Open the notebook:
-jupyter notebook
 
-Step 6: Run all cells to generate the map
+Within Anaconda launch jupyter notebook and navigate to the schools_map.ipynb notebook and open it.
+
+Step 6: Run all cells within the notebook to generate the map
