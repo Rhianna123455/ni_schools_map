@@ -36,7 +36,11 @@ The data utilised within this project is contained within the data folder within
 ## How to Run This Project
 Step 1: Clone the repository:
 
-Clone this repository using git clone following this link: https://github.com/Rhianna123455/ni_schools_map 
+Clone this repository using the following code: 
+
+git clone https://github.com/Rhianna123455/ni_schools_map 
+
+Alternatively, this line can be used to access the repository via GitHub and cloned using the "Code" button. 
 
 Step 2: Navigate to the project folder:
 
