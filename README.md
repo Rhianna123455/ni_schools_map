@@ -40,7 +40,7 @@ Clone this repository using the following code:
 
 git clone https://github.com/Rhianna123455/ni_schools_map 
 
-Alternatively, this line can be used to access the repository via GitHub and cloned using the "Code" button. 
+Alternatively, this link (https://github.com/Rhianna123455/ni_schools_map) can be used to access the repository via GitHub and cloned using the "Code" button. 
 
 Step 2: Navigate to the project folder:
 
